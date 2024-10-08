@@ -1,0 +1,41 @@
+1)--------->
+npx create-react-app netflix
+cd netflix
+npm i react-router-dom axios react-icons
+npm start
+
+
+2)--------->
+Header.jsx , Home.jsx & Home.css  in Components Folder & Linked With App.js
+
+
+3)--------->
+Added Google Fonts
+
+
+4)--------->
+Header  Functionality
+
+
+5)---------> 
+Banner Functionality
+
+
+6)--------->
+Heading Above Cards Functionality
+
+
+7)--------->
+Card In Multiple Rows Functionality
+
+
+8)--------->
+Use  Movie Database (TMDb) API.
+
+
+9)---------> 
+genre Functionality
+
+
+10)--------->
+Front Banner With Buttons Functionality
